@@ -128,7 +128,7 @@ Analysis:
 
 Aside from the public utility outlier, it is safe to say that the assessed values of the real estate properties have not kept pace with the actual sale prices of those properties.\
 This is likely due to the increased interest rates from the Federal Reserve which increased prices in the real estate market.\
-As shown in the bar charts, the majority of average assessed prices for real estate in Connecticut from 2018-2023 were lower for property types then the actual sales price with the \public utility property type being the exception.
+As shown in the bar charts, the majority of average assessed prices for real estate in Connecticut from 2018-2023 were lower for property types then the actual sales price with the public utility property type being the exception.
 
 
 
