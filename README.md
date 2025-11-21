@@ -2,10 +2,14 @@
 
 Team Name and Members:
 
-Audrey Staples - https://github.com/audreystaples/mist4620groupproject2/blob/main/README.md\
+Audrey Staples - https://github.com/audreystaples/mist4620groupproject2/blob/main/README.md
+
 Angela Ren 
-Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject2/edit/main/README.md\
-Sam Effron -  https://github.com/Seffron/mist4610groupproject2/blob/main/README.md\
+
+Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject2/edit/main/README.md
+
+Sam Effron -  https://github.com/Seffron/mist4610groupproject2/blob/main/README.md
+
 Tyler Schildkraut - https://github.com/tylerschildkraut/mist4610-project2-group-7/blob/acc29045db06734eb6b9771adb96c690a8286c20/README.md 
 
 
