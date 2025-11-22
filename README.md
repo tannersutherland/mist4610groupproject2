@@ -4,7 +4,7 @@ Team Name and Members:
 
 Audrey Staples - https://github.com/audreystaples/mist4620groupproject2/blob/main/README.md
 
-Angela Ren 
+Angela Ren - https://github.com/angelaaa456/mist4610groupproject2
 
 Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject2
 
@@ -130,5 +130,8 @@ Aside from the public utility outlier, it is safe to say that the assessed value
 This is likely due to the increased interest rates from the Federal Reserve which increased prices in the real estate market.\
 As shown in the bar charts, the majority of average assessed prices for real estate in Connecticut from 2018-2023 were lower for property types then the actual sales price with the public utility property type being the exception.
 
+Tableau Packaged Workbook:
+
+https://drive.google.com/drive/folders/15dGMt9O2iviugWpYR9pS6_wULTqpsHxl?usp=sharing
 
 
